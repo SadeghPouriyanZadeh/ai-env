@@ -1,0 +1,18 @@
+# data gathering
+beautifulsoup4
+requests
+
+# data manipulation
+numpy
+pandas
+scipy
+
+# data visualization
+matplotlib
+seaborn
+
+# machine learning
+xgboost
+scikit-learn
+opencv
+scikit-image
