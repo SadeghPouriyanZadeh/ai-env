@@ -9,9 +9,15 @@ This repo automates creating environment for AI developement (ML, Vision, NLP, .
 
 3. Open a terminal with conda base in the ```ai-env``` directory.
 
-4. Create ml environment using conda.
+4. Create ml environment using conda using PyTorch/TensorFlow.
 
-```conda create --name ml --file essential_packages.txt --channel conda-forge --channel anaconda --channel pytorch```
+* PyTorch:
+
+```conda create --name ml --file pytorch_requirements.txt --channel conda-forge --channel anaconda --channel pytorch```
+
+* TensorFlow:
+
+```conda create --name ml --file tensorflow_requirements.txt --channel conda-forge --channel anaconda --channel pytorch```
 
 5. Clone ml environment for each project.
 
