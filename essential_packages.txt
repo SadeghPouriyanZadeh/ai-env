@@ -22,3 +22,9 @@ xgboost
 scikit-learn
 opencv
 scikit-image
+
+# deep learning
+pytorch
+torchvision
+torchaudio
+cudatoolkit
