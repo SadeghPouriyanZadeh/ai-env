@@ -11,4 +11,4 @@ this repo tries to automate creating a development environment for developing ar
 
 4. create ml environment using conda
 
-```conda create --name ml --file essential_packages.txt```
+```conda create --name ml --file essential_packages.txt --channel conda-forge --channel anaconda --channel pytorch```
