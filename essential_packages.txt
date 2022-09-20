@@ -2,15 +2,17 @@
 ipykernel
 ipywidgets
 black
-jinja2
+
 
 # data gathering
 beautifulsoup4
 requests
 
 # data manipulation
-numpy
 pandas
+
+# scientific
+numpy
 scipy
 
 # data visualization
@@ -20,11 +22,18 @@ seaborn
 # machine learning
 xgboost
 scikit-learn
-opencv
 scikit-image
+opencv
 
 # deep learning
 pytorch
 torchvision
 torchaudio
 cudatoolkit
+tensorflow
+keras
+
+# api
+fastapi
+flask
+jinja2
