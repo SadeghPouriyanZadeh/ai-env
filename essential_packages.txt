@@ -32,6 +32,7 @@ torchaudio
 cudatoolkit
 tensorflow
 keras
+transformers
 
 # api
 fastapi

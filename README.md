@@ -1,5 +1,5 @@
 # ai-env
-This repo automates creating environment for artificial intelligence developement.
+This repo automates creating environment for AI developement (ML, Vision, NLP, ...)
 
 1. Install Miniconda from [here](https://docs.conda.io/en/main/miniconda.html) and initialize it.
 
