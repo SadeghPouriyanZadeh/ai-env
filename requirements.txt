@@ -18,12 +18,7 @@ pandas
 matplotlib
 
 # machine learning
+opencv
+scikit-learn
 scikit-image
 opencv
-
-# deep learning
-pytorch
-torchvision
-torchaudio
-cudatoolkit
-transformers
