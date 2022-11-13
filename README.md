@@ -1,5 +1,5 @@
 # ai-env
-This repo automates creating environment for AI developement (ML, Vision, NLP, ...)
+This repo guides you to create an environment for AI developement
 
 1. Install Miniconda from [here](https://docs.conda.io/en/main/miniconda.html) and initialize it.
 
@@ -9,16 +9,12 @@ This repo automates creating environment for AI developement (ML, Vision, NLP, .
 
 3. Open a terminal with conda base in the ```ai-env``` directory.
 
-4. Create ml environment using conda for PyTorch/TensorFlow.
+4. Create ml environment using conda.
 
-* PyTorch:
-
-```conda create --name ml --file pytorch_requirements.txt --channel conda-forge --channel anaconda --channel pytorch```
-
-* TensorFlow:
-
-```conda create --name ml --file tensorflow_requirements.txt --channel conda-forge --channel anaconda --channel pytorch```
+```conda create --name ml --file requirements.txt --channel conda-forge --channel anaconda --channel pytorch```
 
 5. Clone ml environment for each project.
 
 ```conda create --name project-env --clone ml```
+
+6. for using pytorch go to its installation page from [here](https://pytorch.org/get-started/locally/)
