@@ -1,0 +1,19 @@
+# general
+ipykernel
+ipywidgets
+black
+
+# data gathering
+beautifulsoup4
+requests
+
+# scientific
+numpy
+scipy
+
+# data manipulation
+pandas
+
+# data visualization
+matplotlib
+seaborn

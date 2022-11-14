@@ -16,9 +16,9 @@ pandas
 
 # data visualization
 matplotlib
+seaborn
 
 # machine learning
 opencv
 scikit-learn
 scikit-image
-opencv
