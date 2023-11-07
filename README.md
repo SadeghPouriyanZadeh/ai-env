@@ -35,6 +35,8 @@ This repo guides you to create an environment for AI developement
 
 for example:
 
+This is for test
+
 ```conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia```
 
 4. Then install other recommended packages using "torch_requirements" file.
